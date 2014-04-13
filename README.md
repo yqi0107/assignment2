@@ -1,1 +1,1 @@
-homework for R programing assignment 2
+homework for R programming assignment 2
